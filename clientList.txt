@@ -1,0 +1,5 @@
+Personal:supun,nimsara,adikariamssh@gmail.com,2005/09/21
+Official:nipun,adikariamssh@gmail.com,sales manager
+Personal:chathura,ravindu,adikariamssh@gmail.com,2000/03/10
+Official:dinesh,adikariamssh@gmail.com,manager
+Personal:adikari,sashinda,adikariamssh@gmail.com,2005/09/23
